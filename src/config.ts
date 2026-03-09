@@ -1,6 +1,6 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
+    website: "draftfolio.pages.dev", // replace this with your deployed domain
+    title: "Drafter Furniture",
     description: "A simple but beautiful portfolio created with Astro",
     tags: ["portfolio", "Resume cv", "Astro"],
     ogImage: "/og-image.webp",
@@ -14,8 +14,8 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
+    name: "Anto Drafter",
+    profession: "Drafter Furniture | Suka ngulik teknologi",
     profileImage: "pp2.png",
     profileFacts: [
         {
